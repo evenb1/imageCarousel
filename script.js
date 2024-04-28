@@ -3,5 +3,6 @@ var index = 0;
 function showImage(i){
     index+=i;
     var images = document.getElementsByName(image);
+    for(i=0;i<images.length;i++)
     
 }
