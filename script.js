@@ -11,5 +11,8 @@ function showImage(i){
     dots[i].className= dots[i].className.replace("active", "");
 
     if(index > images.length -1)
-    index =
+    index = 0;
+
+    if(index<0)
+    
 }
