@@ -8,5 +8,5 @@ function showImage(i){
 
     var dots = document.getElementsByName("dot");
     for(i=0; i<dots.length; i++)
-    
+    dots[i].className= dots[i].className.replace("active")
 }
