@@ -11,4 +11,6 @@ img{
 }
 #prev{
     position: absolute;
+    color: white;
+    background-color: black;
 }
