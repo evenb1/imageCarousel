@@ -15,4 +15,6 @@ function showImage(i){
 
     if(index<0)
     index = images.length -1;
+
+    images[index].style.display = "block";
 }
