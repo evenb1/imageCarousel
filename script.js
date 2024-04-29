@@ -17,4 +17,5 @@ function showImage(i){
     index = images.length -1;
 
     images[index].style.display = "block";
+    dots[index].className += "active";
 }
