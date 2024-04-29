@@ -14,5 +14,5 @@ function showImage(i){
     index = 0;
 
     if(index<0)
-    
+    index = images.length -1;
 }
