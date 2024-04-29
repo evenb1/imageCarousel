@@ -9,3 +9,6 @@ img{
     display:flex;
     align-items: center;
 }
+#prev{
+    position: absolute;
+}
