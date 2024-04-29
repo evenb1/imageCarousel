@@ -7,4 +7,6 @@ function showImage(i){
     images[i].style.display='none';
 
     var dots = document.getElementsByName("dot");
+    for(i=0; i<dots.length; i++)
+    
 }
